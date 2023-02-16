@@ -1,2 +1,2 @@
-# maximum-number-in-array
-maximum number in array using max function..
+# maximum-value-in-array
+maximum value in array using max function..
